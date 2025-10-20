@@ -47,7 +47,7 @@ Clone o projeto em seu ambiente local:
 
 Caso use o DevContainer, certifique-se que a pasta do servidor Minecraft está no caminho exato especificado em `devcontainer.json`:
 
-`"source": "C:\Users\Bernardo Andrade\Documents\BlockyCRAFT",`
+`"source": "C:\Users\Seu-Usuário\Documents\Seu-Servidor",`
 `"target": "/minecraft-server"`
 
 Altere se necessário para sua pasta local do servidor.
