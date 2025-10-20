@@ -8,7 +8,7 @@
   "mounts": [
     {
       // Fonte no Windows: A pasta raiz do seu servidor Minecraft
-      "source": "C:\\Users\\Bernardo Andrade\\Documents\\BlockyCRAFT",
+      "source": "C:\\Users\\Bernardo Zukerman\\Documents\\BlockyCRAFT",
       // Alvo no Contêiner: Um caminho de fácil acesso
       "target": "/minecraft-server",
       "type": "bind"
